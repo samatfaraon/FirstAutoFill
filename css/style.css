@@ -1,0 +1,23 @@
+.auto-container {
+    display: grid;
+    grid-template: repeat(2, 23vw)/repeat(4, 23vw);
+    row-gap: 2vw;
+    column-gap: 2vw;
+    background-color: #B5AF9D;
+}
+.auto-item {
+    width: 100%;
+    height: 100%;
+}
+.auto-item--1{
+    border: solid 1vw #6D5946;
+}
+.auto-item--2{
+    border: solid 1vw #6D5946;
+}
+.auto-item--3{
+    border: solid 1vw #6D5946;
+}
+.auto-item--4{
+    border: solid 1vw #6D5946;
+}
